@@ -1,2 +1,2 @@
-No code No pain
+git is awesome!
 experiment with amend
